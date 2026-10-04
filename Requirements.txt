@@ -1,0 +1,9 @@
+numpy
+scipy
+librosa
+soundfile
+matplotlib
+streamlit
+yt-dlp
+PyQt6
+pyqtgraph
